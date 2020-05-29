@@ -1,0 +1,1 @@
+﻿positionForPages[1]={page:1,positions:[{word:"Person1",left:0.134311,top:0.189845,width:0.263158,height:0.105278}]};
